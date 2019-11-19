@@ -1,5 +1,6 @@
 # Lezione 5
 
+
 ## La codifica del testo per il web
 
 La codifica del testo consente di creare un linguaggio condiviso tra l'uomo e la macchina affinchè quest'ultima possa _interpretare_ alcune semplici istruzioni sulla **struttura logica e l'aspetto dei contenuti** di un testo.
